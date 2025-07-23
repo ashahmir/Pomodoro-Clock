@@ -25,6 +25,8 @@ A simple and aesthetic Pomodoro timer built with Python's Tkinter module. This a
   Each completed work session adds a ✔️ checkmark at the bottom.
 
   # In start_timer():
-seconds = WORK_MIN * 60        # For work sessions
+seconds = WORK_MIN * 60     # For work sessions
+
 seconds = SHORT_BREAK_MIN * 60 # For short breaks
+
 seconds = LONG_BREAK_MIN * 60  # For long breaks
