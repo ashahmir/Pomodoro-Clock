@@ -12,8 +12,9 @@ A simple and aesthetic Pomodoro timer built with Python's Tkinter module. This a
 - ✅ Tracks work sessions using checkmarks
 - 🪟 Pops up the window when a session ends to alert you
 - 🔁 Automatic cycling through sessions (no manual restarts)
+  
 
-🧠 How It Works
+## 🧠 How It Works
   The timer starts with a Work session.
   
   After each work session, a Break session starts automatically.
